@@ -5,7 +5,11 @@
 > KMP algorithm
 
 **HW2** : Master of Linked Lists
-> Linked List
+> Linked List structure
 
 **HW3** : Minimum Spanning Tree
 > Kruskal algorithm
+
+> Disjoint set tree
+
+> Heap structure
